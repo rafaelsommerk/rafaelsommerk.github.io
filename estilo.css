@@ -22,16 +22,3 @@ a{
     border-radius: 13px;
     font-size: 106px;
 }
-
-.divP{
-    color: rgb(9, 247, 167);
-    background-color: rgb(190, 190, 190);
-    font-size: 105px;
-    font-family: Arial, Verdana;
-    text-align: center;
-    margin-top: 150px;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 10px;
-    width: 200px;
-}

@@ -4,7 +4,7 @@
     font-size: 50px;
     font-family: Arial, Verdana;
     text-align: center;
-    align: center;
+    margin: auto;
     border-radius: 8px;
     width: 200px;
 }

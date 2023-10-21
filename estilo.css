@@ -15,10 +15,7 @@ a{
 }
 
 .div:hover{
-    margin-top: 147px;
     padding: 3px;
-    border-radius: 13px;
-    font-size: 106px;
 }
 
 .footer{

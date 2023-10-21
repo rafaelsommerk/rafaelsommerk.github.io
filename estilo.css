@@ -4,8 +4,7 @@
     font-size: 50px;
     font-family: Arial, Verdana;
     text-align: center;
-    margin-top: 50px;
-    margin-down:50px;
+    margin: center;
     border-radius: 8px;
     width: 200px;
 }

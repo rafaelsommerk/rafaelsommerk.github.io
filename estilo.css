@@ -4,8 +4,6 @@
     font-size: 50px;
     font-family: Arial, Verdana;
     text-align: center;
-    display: flex;
-    flex-direction: row;
     border-radius: 8px;
     width: 200px;
 }

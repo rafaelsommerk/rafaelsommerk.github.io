@@ -1,0 +1,56 @@
+.texto1{
+	font-size:50px;
+	font-weight: 300;
+}
+.h2titulo{
+	color:#909090;
+	font-size:25px;
+	margin-top:60px;
+	margin-left:0px;
+}
+.texto2{
+	padding:10px;
+}
+
+.textoEspacado{
+	padding: 10px;
+	color: white;
+	
+}
+.h6texto{
+	font-size:15px;
+	color:#404040;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  font-family:sans-serif;
+}
+
+header{
+	text-align:center;
+	margin-top:70px;
+	
+}
+
+footer {
+	background-color: #333;
+	color: white;
+	padding:50px;
+  padding-left: 60px;
+  padding-bottom: 190px;
+  margin-top:20%;
+}
+
+section{
+	padding:50px;
+}
+
+@media only screen and (max-width: 600px) {
+  /* Estilos para telas menores que 600 pixels de largura */
+
+
+}

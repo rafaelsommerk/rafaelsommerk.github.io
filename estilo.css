@@ -22,6 +22,20 @@
 	color:#404040;
 }
 
+.cmd{
+	color:rgb(255, 255, 255);
+	background-color:#000000;
+	padding:30px;
+	border-radius: 10px;
+}
+
+.corverde{
+	color:#009000;
+}
+
+.espacoesquerda{
+	padding-left:20px;
+}
 
 body {
   display: flex;

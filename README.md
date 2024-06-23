@@ -3,5 +3,5 @@ Para visualizar o site, [clique aqui](https://rafaelsommerk.github.io).
 ##
 ### Clique na caixa $RAFÃO$
 Preview
-<img src='img/captura.png'></img>
+[<img src='img/captura.png'></img>](https://rafaelsommerk.github.io)
 # 

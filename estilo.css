@@ -1,0 +1,90 @@
+footer{
+    background-color: rgb(34, 34, 34);
+    color: #a8a8a8;
+    padding-top: 2%;
+    padding-bottom: 15%;
+    padding-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+
+header{
+    margin-top: 15%;
+    margin-bottom: 1%;
+    align-content: center;
+    text-align: center;
+    height: 150px;
+}
+
+.txt_rafao{
+    background-color: rgb(34, 34, 34);
+    color: #a8a8a8;
+    align-content: center;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    padding: 35px;
+    margin:auto;
+    border-radius: 16px;
+    
+    
+}
+
+.txt_rafao:hover{
+    padding: 36px;
+    
+}
+
+.container{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    align-content: center;
+}
+
+.animacao_1{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 100px;
+    width: 1px;
+    margin-left: 1%;
+    opacity: 0;
+    transition: opacity 1s ease;
+    
+}
+.animacao_2{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 100px;
+    width: 1px;
+    margin-left: 1%;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+.animacao_3{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 100px;
+    width: 1px;
+    margin-left: 1%;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.animacao_4{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 100px;
+    width: 1px;
+    margin-left: 1%;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+
+/*////////////// configuração para layout responsivo        */
+/* 
+@media screen and (min-width: 800px) {
+    
+  } */
+
+  
